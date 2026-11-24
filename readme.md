@@ -1,5 +1,5 @@
 
-# TalentMatch 🎯
+# TalentMatch 
 
 ### Skill-Based Job Discovery & Recommendation Platform
 
@@ -7,7 +7,7 @@ TalentMatch is a skill-based job discovery and recommendation platform designed 
 
 The platform brings job listings from multiple sample sources into one unified catalog, removes duplicate listings, and uses a rule-based matching algorithm to calculate how well a candidate matches each job. It also identifies matched and missing skills, ranks job recommendations, and helps users manage their saved jobs and applications.
 
-## 🚀 Key Features
+## Key Features
 
 - **Candidate Profile:** Add skills, years of experience, preferred location, and remote-work preferences.
 - **Job Listings:** Explore technology job opportunities from multiple sample sources.
@@ -21,7 +21,7 @@ The platform brings job listings from multiple sample sources into one unified c
 - **Saved Jobs:** Save interesting job opportunities.
 - **Application Tracking:** Track application statuses.
 
-## 🧮 Matching Algorithm
+## Matching Algorithm
 
 TalentMatch uses a transparent, rule-based weighted scoring system.
 
@@ -37,7 +37,7 @@ Each job receives a compatibility score from 0 to 100, along with a breakdown of
 
 **Note:** The matching score is a rule-based estimate, not an AI prediction or actual hiring decision.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - HTML5
 - CSS3
@@ -47,7 +47,7 @@ Each job receives a compatibility score from 0 to 100, along with a breakdown of
 - Browser LocalStorage
 - Git & GitHub
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 TalentMatch/
@@ -71,7 +71,7 @@ TalentMatch/
 
 *The folder structure may change as development progresses.*
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. Clone this repository:
 
@@ -91,7 +91,7 @@ TalentMatch/
 
 No backend installation is required for the current demo.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Make technology job discovery more organized.
 - Help candidates understand their compatibility with job requirements.
@@ -99,7 +99,7 @@ No backend installation is required for the current demo.
 - Provide transparent and explainable job recommendations.
 - Build a practical job recommendation platform using frontend technologies.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Resume parsing and profile generation.
 - Integration with real job listing APIs.
@@ -109,16 +109,16 @@ No backend installation is required for the current demo.
 
 *These are potential future enhancements and are not part of the current MVP.*
 
-## 👨‍💻 Team Members
+## Team Members
 
 - **Aditya Jakhar**
 - **Aryav Sharma**
 
-## 👩‍🏫 Project Mentor
+## Project Mentor
 
 **Madhushri Tangali**
 
-## 📌 Project Information
+## Project Information
 
 | Detail | Information |
 |---|---|
